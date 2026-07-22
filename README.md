@@ -36,3 +36,5 @@ xemplo de uso da esilização em tachado ~~palavra~~ utiliza-se ~~.
 |:--- | :--- | :--- |
 | html | sim | ativo |
 | Markdown | sim | ativo |
+
+![Imagem](ou8ei6jbqtu78yhjnqmg.jpg)
