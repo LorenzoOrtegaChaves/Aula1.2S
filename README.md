@@ -11,6 +11,13 @@ Exemplo de uso da esilização em itálico *palavra* utiliza-se *.
 
 xemplo de uso da esilização em tachado ~~palavra~~ utiliza-se ~~.
 
+texto de exemplo
+olá mundo
+
+
+
+
+
 # lista de compras 
 
 - Arroz
@@ -36,5 +43,7 @@ xemplo de uso da esilização em tachado ~~palavra~~ utiliza-se ~~.
 |:--- | :--- | :--- |
 | html | sim | ativo |
 | Markdown | sim | ativo |
+
+# imagem:
 
 ![Imagem](ou8ei6jbqtu78yhjnqmg.jpg)
